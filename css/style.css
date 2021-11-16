@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&family=Patrick+Hand&family=Righteous&family=Zen+Kurenaido&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Righteous&display=swap');
+body {
+    background-color: rgb(170, 247, 202);
+    font-family: 'Righteous', cursive;
+    justify-content: center;
+    flex-direction: column-reverse;
+  }
+  h1 {
+    margin-top: 1em;
+    font-size: 100px;
+    color: black;
+  }
+  .title{
+      margin-top: 13em;
+      margin-left: 36em;
+  }
+  .btn-container{
+    margin-left: 35em;
+    margin-top: 2em;
+  }
+  button{
+    font-family: 'Amatic SC', cursive;
+    background-color: rgb(235, 192, 144);
+    font-size: 20px;
+    height: 30px;
+    border-radius: 3px;
+  }
